@@ -1,6 +1,6 @@
 ﻿<b><t><t>ToDo-App<b>
 <br>
-<pre>Using Django principles, I deployed my first simple ToDo web application that can manage your daily tasks effectively. The basic django concepts involved here are : 
+<pre>Deployed a Django-based Todo Application with responsive UI and task management features on PythonAnywhere. The basic django concepts involved here are : 
 1. Understanding models,views, templates & Urls.
 2. Creating & activating Virtual environment
 3. Basic CRUD Functionalities- Taking input from the user and saving it in database. Showing it for specific conditions and deleting the data.
