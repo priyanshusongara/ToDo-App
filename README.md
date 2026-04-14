@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-🔗 [https://your-pythonanywhere-link.com](https://priyanshu2002.pythonanywhere.com/)
+🔗 https://your-pythonanywhere-link.com](https://priyanshu2002.pythonanywhere.com/
 
 ---
 
