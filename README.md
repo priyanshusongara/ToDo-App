@@ -37,7 +37,7 @@ This project demonstrates core Django concepts along with real-world deployment.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/priyanshusongara/ToDo-App.git
 cd todo-app
 pip install -r requirements.txt
 python manage.py runserver
