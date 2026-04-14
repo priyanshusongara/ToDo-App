@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-🔗 https://your-pythonanywhere-link.com
+🔗 [https://your-pythonanywhere-link.com](https://priyanshu2002.pythonanywhere.com/)
 
 ---
 
@@ -18,7 +18,6 @@ This project demonstrates core Django concepts along with real-world deployment.
 
 * ➕ Add new tasks
 * 📋 View all tasks
-* ✏️ Update existing tasks
 * ❌ Delete tasks
 * 📅 Display current date dynamically
 * 📱 Responsive UI design
@@ -37,10 +36,8 @@ This project demonstrates core Django concepts along with real-world deployment.
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
 
-```
-![Home Page](screenshots/home.png)
+```<img width="1920" height="1080" alt="Screenshot (3576)" src="https://github.com/user-attachments/assets/49328ced-1689-490e-bf99-4998f8483423" />
 ```
 
 ---
@@ -69,7 +66,7 @@ python manage.py runserver
 
 ## 🚀 What I Learned
 
-* Built a full-stack application from scratch
+* Built my full-stack application from scratch first time
 * Understood Django project structure deeply
 * Learned deployment workflow using PythonAnywhere
 * Improved debugging and backend logic skills
@@ -81,4 +78,4 @@ python manage.py runserver
 Priyanshu Songara
 
 
-<img width="1920" height="1080" alt="Screenshot (3576)" src="https://github.com/user-attachments/assets/49328ced-1689-490e-bf99-4998f8483423" />
+
