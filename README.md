@@ -1,5 +1,4 @@
-#  Django Todo Application
-<img width="70" height="70" alt="list_7893272" src="https://github.com/user-attachments/assets/19590733-e2f2-4de2-bc27-f92d3c592dc5" />
+#  Django Todo Application <img width="70" height="70" alt="list_7893272" src="https://github.com/user-attachments/assets/19590733-e2f2-4de2-bc27-f92d3c592dc5" />
 
 ## Live Website Link
 
