@@ -1,6 +1,4 @@
 #  Django Todo Application
-![Django](https://img.shields.io/badge/Django-Backend-green)
-![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 ## Live Demo
 
