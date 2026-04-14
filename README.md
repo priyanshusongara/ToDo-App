@@ -1,6 +1,6 @@
 #  Django Todo Application
 
-## Live Demo
+## Live Website Link
 
 🔗 https://priyanshu2002.pythonanywhere.com/
 
