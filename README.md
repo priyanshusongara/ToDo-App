@@ -37,7 +37,7 @@ This project demonstrates core Django concepts along with real-world deployment.
 ## 📸 Screenshots
 
 
-```<img width="1920" height="1080" alt="Screenshot (3576)" src="https://github.com/user-attachments/assets/49328ced-1689-490e-bf99-4998f8483423" />
+`
 ```
 
 ---
@@ -78,4 +78,4 @@ python manage.py runserver
 Priyanshu Songara
 
 
-
+<img width="1920" height="1080" alt="Screenshot (3576)" src="https://github.com/user-attachments/assets/49328ced-1689-490e-bf99-4998f8483423" />
