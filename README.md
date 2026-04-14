@@ -1,12 +1,84 @@
-﻿<b><t><t>ToDo-App<b>
-<br>
-<pre>Deployed a Django-based Todo Application with responsive UI and task management features on PythonAnywhere. The basic django concepts involved here are : 
-1. Understanding models,views, templates & Urls.
-2. Creating & activating Virtual environment
-3. Basic CRUD Functionalities- Taking input from the user and saving it in database. Showing it for specific conditions and deleting the data.
-4. Inbuilt date functions to print current date
+# 📝 Django Todo Application
 
-Other langauges used here are HTML,CSS (for frontend), Git & Github along with deployment of this project using Pythonanywhere website ! It was an amazing experience to build this from scratch and making it LIVE .<pre>
+## 🌐 Live Demo
+
+🔗 https://your-pythonanywhere-link.com
+
+---
+
+## 📌 Overview
+
+A clean and responsive Todo web application built using Django that allows users to efficiently manage daily tasks with full CRUD functionality.
+
+This project demonstrates core Django concepts along with real-world deployment.
+
+---
+
+## ✨ Features
+
+* ➕ Add new tasks
+* 📋 View all tasks
+* ✏️ Update existing tasks
+* ❌ Delete tasks
+* 📅 Display current date dynamically
+* 📱 Responsive UI design
+
+---
+
+## 🛠️ Tech Stack
+
+* **Backend:** Django
+* **Frontend:** HTML, CSS
+* **Database:** SQLite
+* **Version Control:** Git & GitHub
+* **Deployment:** PythonAnywhere
+
+---
+
+## 📸 Screenshots
+
+(Add your screenshots here)
+
+```
+![Home Page](screenshots/home.png)
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/yourusername/todo-app.git
+cd todo-app
+pip install -r requirements.txt
+python manage.py runserver
+```
+
+---
+
+## 🧠 Concepts Used
+
+* Django Models, Views, Templates (MVT Architecture)
+* URL Routing
+* CRUD Operations
+* Django Forms & Request Handling
+* Virtual Environment Setup
+* Date & Time Utilities
+
+---
+
+## 🚀 What I Learned
+
+* Built a full-stack application from scratch
+* Understood Django project structure deeply
+* Learned deployment workflow using PythonAnywhere
+* Improved debugging and backend logic skills
+
+---
+
+## 👨‍💻 Author
+
+Priyanshu Songara
 
 
 <img width="1920" height="1080" alt="Screenshot (3576)" src="https://github.com/user-attachments/assets/49328ced-1689-490e-bf99-4998f8483423" />
