@@ -1,12 +1,12 @@
-# 📝 Django Todo Application
+#  Django Todo Application
 
-## 🌐 Live Demo
+## Live Demo
 
 🔗 [https://your-pythonanywhere-link.com](https://priyanshu2002.pythonanywhere.com/)
 
 ---
 
-## 📌 Overview
+##  Overview
 
 A clean and responsive Todo web application built using Django that allows users to efficiently manage daily tasks with full CRUD functionality.
 
@@ -14,17 +14,17 @@ This project demonstrates core Django concepts along with real-world deployment.
 
 ---
 
-## ✨ Features
+## Features
 
-* ➕ Add new tasks
-* 📋 View all tasks
-* ❌ Delete tasks
-* 📅 Display current date dynamically
-* 📱 Responsive UI design
+* Add new tasks
+* View all tasks
+* Delete tasks
+* Display current date dynamically
+* Responsive UI design
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Backend:** Django
 * **Frontend:** HTML, CSS
@@ -34,15 +34,7 @@ This project demonstrates core Django concepts along with real-world deployment.
 
 ---
 
-## 📸 Screenshots
-
-
-`
-```
-
----
-
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/todo-app.git
@@ -53,7 +45,7 @@ python manage.py runserver
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 * Django Models, Views, Templates (MVT Architecture)
 * URL Routing
@@ -64,7 +56,7 @@ python manage.py runserver
 
 ---
 
-## 🚀 What I Learned
+## What I Learned
 
 * Built my full-stack application from scratch first time
 * Understood Django project structure deeply
@@ -73,9 +65,10 @@ python manage.py runserver
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Priyanshu Songara
 
+## Screenshots of UI
 
 <img width="1920" height="1080" alt="Screenshot (3576)" src="https://github.com/user-attachments/assets/49328ced-1689-490e-bf99-4998f8483423" />
