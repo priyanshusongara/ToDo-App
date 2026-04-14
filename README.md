@@ -21,7 +21,7 @@ This project demonstrates core Django concepts along with real-world deployment.
 * Delete tasks
 * Display current date dynamically
 * Responsive UI design
-
+  Note: To see all these feature, go to the website URL or See Screenshots below
 ---
 
 ## Tech Stack
